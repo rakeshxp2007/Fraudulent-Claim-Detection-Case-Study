@@ -119,11 +119,15 @@ fraudulent-claim-detection/
 
 ---
 
-## Team 👥
-- Rakesh Kumar Sahoo 🌟
-- Rohit Vashishth 🌟
-- Saurabh Singh 🌟
-- Sandeep Santhosh 🌟
+## 🎯 **Project Overview**
+
+This repository is part of an ongoing assignment for the **Postgraduate Certification in Data Science, Machine Learning, and AI** from **IIIT Bangalore & UpGrad**.  
+
+📚 **Case Study:** Lead Scoring for **X Education**, an online course-selling platform. 
+
+👥 **Team Members:** [Rohit Vashishth](https://www.linkedin.com/in/rohit-vashishth-2724a81b/) , [Rakesh Kumar Sahoo](https://www.linkedin.com/in/rakeshkumarsahoo23/) , [Saurab Singh](https://www.linkedin.com/in/saurabh-singh-778390193/) & [Sandeep Santhosh]()
+
+🏫 **Institution:** [IIIT Bangalore](https://www.iiitb.ac.in/) in collaboration with [UpGrad](https://www.upgrad.com/).  
 
 ---
 
