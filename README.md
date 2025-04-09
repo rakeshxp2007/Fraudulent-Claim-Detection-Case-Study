@@ -109,12 +109,12 @@ The Logistic Regression coefficients highlight key predictors:
 ## Repository Structure 📂
 ```
 fraudulent-claim-detection/
-├── data/                  # Dataset files (not included due to sensitivity) 📊
+├── data/                  # Dataset files  📊
 ├── notebooks/             # Jupyter notebooks for EDA and model building 📓
 ├── models/                # Pre-trained Logistic Regression and Random Forest models 🤖
-├── images/                # Images used in README (e.g., PAGE1, PAGE18) 🖼️
-├── README.md              # Project overview and instructions 📝
-└── requirements.txt       # Python dependencies ⚙️
+├── images/                # Images used in README and notebook 🖼️
+└──README.md               # Project overview and instructions 📝
+ 
 ```
 
 ---
